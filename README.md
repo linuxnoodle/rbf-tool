@@ -1,6 +1,7 @@
 <p align="center"><img src="rbf.png" height="200"/></p>
 <h1 align="center">rbf-tool</h1>
 BF interpreter (and hopefully soon to be compiler) written according to the [esolang.org](https://esolangs.org/wiki/Brainfuck) specification (this time in rust!).
+
 ## Compilation:
 ```
 git clone https://github.com/linuxnoodle/rbf-tool
