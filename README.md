@@ -1,5 +1,6 @@
 <p align="center"><img src="rbf.png" height="200"/></p>
 <h1 align="center">rbf-tool</h1>
+
 BF interpreter (and hopefully soon to be compiler) written according to the [esolang.org](https://esolangs.org/wiki/Brainfuck) specification (this time in rust!).
 
 ## Compilation:
@@ -16,5 +17,5 @@ rbf-interpreter: usage: rbf-interpreter [OPTIONS]... [FILE]
     -v, --visualize                 [TODO] shows the memory of the program in a TUI browser
 ```
 ## TODO:
-- [  ] LLVM compilation
-- [  ] TUI memory visualization
+- [ ] LLVM compilation
+- [ ] TUI memory visualization
